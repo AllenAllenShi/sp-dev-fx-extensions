@@ -1,4 +1,4 @@
-# SharePoint Framework Extensions samples & tutorial materials #Allen's second commit, want to make a pull request. Working with fork repo and upstream repo !!!!!!@@@@@@@@:-)
+# SharePoint Framework Extensions samples & tutorial materials #Allen's second commit, want to make a pull request. :-)!!!@@@@Working with fork repo and upstream repo !!!!!!@@@@@@@@:-)
 
 This repository contains the samples that demonstrate different usage patterns for the SharePoint Framework extensions.
 
